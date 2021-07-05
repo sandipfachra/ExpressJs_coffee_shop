@@ -1,0 +1,40 @@
+{
+    "hero":{
+        "header" : "Drink Healthy <br> and Natural Coffee",
+        "subtext" : "At Coffee Shop , we only brew the freshest coffee from all around the world. we also serve pastries such as  cupcakes and brownies.",
+        "bg_image": "/images/bg_3.jpg"
+    },
+
+    "about":{
+        "header":"Welcome to Coffee Shop.",
+        "subtext":"Welcome to our coffee shope! We hope you enjoy our broad selection of premium coffee from all over the world.Welcome to our coffee shope! We hope you enjoy our broad selection of premium coffee from all over the world.Welcome to our coffee shope! We hope you enjoy our broad selection of premium coffee from all over the world.",
+        "bg_image":"/images/about.jpg",
+        "images" : [
+            {"image":"/images/coffee.jpg", "caption": "Coffee"},
+            {"image":"/images/tea.jpg", "caption": "Tea"},
+            {"image":"/images/cupcake.jpg", "caption": "Pastries"}
+        ]
+    },
+
+    "team": {
+        "subheader": "Team",
+        "header": "Meet The Team!",
+        "img-background": "/images/bg_5.jpg",
+        "members": [
+            {   "name": "Sandip", 
+                "image":"/images/person_1.jpg", 
+                "quote":"I would probably say that this coffee shop is a must for coffee lovers! The service was good, and the variety of coffee served in the ambiance was very satisfying. If you like your coffee shops, then this is a must-visit! We will be back again!", 
+                "position":"owner"},
+            {   "name": "Raju", 
+                "image":"/images/person_2.jpg", 
+                "quote":"I would probably say that this coffee shop is a must for coffee lovers! The service was good, and the variety of coffee served in the ambiance was very satisfying. If you like your coffee shops, then this is a must-visit! We will be back again!", 
+                "position":"customer"}        
+        ]
+    },
+
+    "oreder": {
+        "subheader": "Order",
+        "header": "Please an order!",
+        "img-background": "/images/bg_6.jpg"
+    }
+}

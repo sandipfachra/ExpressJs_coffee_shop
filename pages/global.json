@@ -1,0 +1,9 @@
+{
+    "title": "Coffe Shop",
+    "description": "Welcome to our coffee shope! We hope you enjoy our broad selection of premium coffee from all over the world.",
+    "hours": [
+        {"day":"Mon - Fri", "time":"6am to 10pm"},
+        {"day":"Saturday", "time":"7am to 11pm"},
+        {"day":"Sunday", "time":"7am to 9pm"}
+    ]
+}
