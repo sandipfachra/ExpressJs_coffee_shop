@@ -1,2 +1,2 @@
 # ExpressJs_coffee_shop
-coffee shope website using node &amp; expressjs 
+coffee shop website using node &amp; expressjs 
